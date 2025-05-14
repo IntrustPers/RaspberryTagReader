@@ -1,0 +1,12 @@
+Znaci baza podataka je na mjestu, al ovo je samo prototip.
+
+Treba napraviti aplikaciju koja ce biti read only da se podatci nemogu upisivati niti mijenjati.
+
+Za to treba sve staviti u read only, u kodu se nsmije nigdje staviti drop table da se baza podataka ne izgubi.
+Takoder baza podataka se treba spremati sa chronjobom npr svaki dan tako da ako dode do nekih poremecenja (npr. gubitak struje na pi-u) da podatci jos uvijek budu spremljeni.
+
+Treba napraviti web stranicu na Ngroku da bi se baza podataka mogla vidjeti.
+Kako sam ja to zamislio bilo bi dropdown tablice znaci po godini i onda dropdown za vidjeti mjesece i onda svaki mjesec vidjeti po danu profesorove dolaske i odlaske.
+
+Treba napraviti neku kutiju il nesto kako bi to licilo na nesto znaci neki ekran ubacit il nes gdje se prisloni tag i on to upisuje u bazu podataka.
+Zamislao sam neku kutiju koju mozemo napraviti 3d printerom il tako nes.
