@@ -1,8 +1,12 @@
 Koraci:
-Razumijeti kako radi RFID i Rspberry Pi
+Razumijeti kako radi RFID i Raspberry Pi
+
 Spojiti RFID i Raspberry
+
 Isprogramirati program koji očitava RFID u pythonu
-Spremiti podatke u nekom database-u (npr. SQLite ili Google Sheets API)
+
+Spremiti podatke u SQLite database-u (koristi se SQLite umjesto google sheetsa jer je jednostavniji za intergrirati, ne trebaju tokeni i SQLite radi offline)
+
 Napraviti sistem koji šalje na kraju automatizirane poruke o dolascima
 
 Plan rada:
