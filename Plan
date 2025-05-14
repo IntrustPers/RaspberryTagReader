@@ -7,6 +7,8 @@ Isprogramirati program koji očitava RFID u pythonu
 
 Spremiti podatke u SQLite database-u (koristi se SQLite umjesto google sheetsa jer je jednostavniji za intergrirati, ne trebaju tokeni i SQLite radi offline)
 
+Podatke prikazati u grafičkim tablicama (koristimo CSV export i onda google sheets ili slično da peikažemo tablicu)
+
 Napraviti sistem koji šalje na kraju automatizirane poruke o dolascima
 
 Plan rada:
