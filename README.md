@@ -8,18 +8,18 @@ Ovaj projekt koristi Raspberry Pi i RFID čitač za evidenciju dolazaka profesor
 
 🧑‍🏫 Svaki tag je povezan s točno određenim profesorom
 
-💾 Spremanje podataka u SQLite (ili drugi) database
+💾 Spremanje podataka u SQLite database
 
-🖥️ Mogućnost prikaza podataka putem jednostavnog web sučelja (opcionalno)
+🖥️ Mogućnost prikaza podataka putem jednostavnog web sučelja !!!
 
 🧰 Tehnologije:
 Raspberry Pi (Python)
 
-RFID čitač (npr. RC522)
+RFID čitač !!!(npr. RC522)!!!
 
 SQLite baza podataka
 
-Python knjižnice: gpiozero, pysqlite3, datetime
+Python knjižnice: !!!gpiozero, pysqlite3, datetime!!!
 
 🎯 Cilj:
 Olakšati administraciju i vođenje evidencije dolazaka profesora bez potrebe za ručnim upisivanjem ili potpisivanjem.
