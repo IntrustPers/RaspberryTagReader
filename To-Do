@@ -10,3 +10,32 @@ Kako sam ja to zamislio bilo bi dropdown tablice znaci po godini i onda dropdown
 
 Treba napraviti neku kutiju il nesto kako bi to licilo na nesto znaci neki ekran ubacit il nes gdje se prisloni tag i on to upisuje u bazu podataka.
 Zamislao sam neku kutiju koju mozemo napraviti 3d printerom il tako nes.
+
+
+Tehnologije koje su uključene u projekt:
+Raspberry Pi
+
+RFID čitač (RC522)
+
+Python
+
+gpiozero (za GPIO pinove Raspberry Pi-a)
+
+pysqlite3 (za rad s SQLite bazom podataka)
+
+datetime (za rad s vremenom)
+
+SQLite (baza podataka)
+
+Flask (web framework za Python)
+
+HTML (za prikazivanje podataka u web aplikaciji)
+
+CSS (za stiliziranje web stranica)
+
+ngrok (za izlaganje lokalne aplikacije internetu)
+
+Bonus opcije (ako želiš unaprijediti projekt):
+JavaScript (ako želiš dodati dinamičke elemente ili interaktivne funkcionalnosti na web stranici).
+
+Heroku ili DigitalOcean (ako odlučiš postaviti aplikaciju na cloud servis za dugoročno hostanje, umjesto korištenja ngrok-a).
