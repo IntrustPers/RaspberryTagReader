@@ -1,2 +1,9 @@
+Koraci:
+Razumijeti kako radi RFID i Rspberry Pi
+Spojiti RFID i Raspberry
+Isprogramirati program koji očitava RFID u pythonu
+Spremiti podatke u nekom database-u (npr. SQLite)
+Napraviti sistem koji šalje na kraju automatizirane poruke o dolascima
+
 Plan rada:
 ...
